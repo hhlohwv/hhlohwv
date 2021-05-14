@@ -1,0 +1,26 @@
+# Brief Introduction
+
+Currently a graduate student studying Material Science and Engineering.
+
+Mostly utilizing code for making data analysis tools and generating files for automating control of different robotic printers in our lab.
+
+Proficient mostly in Python, a little bit of MATLAB (haven't used in years).
+
+Also still learning a bit of how to proficiently utilize GitHub features.
+
+Can be reached through haloh@mix.wvu.edu
+
+<!--
+**hhlohwv/hhlohwv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
