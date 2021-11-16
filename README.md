@@ -4,9 +4,7 @@ Currently a graduate student studying Material Science and Engineering.
 
 Mostly utilizing code for making data analysis tools and generating files for automating control of different robotic printers in our lab.
 
-Proficient mostly in Python, a little bit of MATLAB (haven't used in years).
-
-Also still learning a bit of how to proficiently utilize GitHub features.
+Proficient primarily in Python and MATLAB for setting up calculation scripts and curve fitting of data.
 
 Can be reached through haloh@mix.wvu.edu
 
