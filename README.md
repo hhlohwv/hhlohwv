@@ -1,4 +1,4 @@
-# Brief Introduction
+# Introduction
 
 Intermediate proficiency in Python, currently learning Rust with the intention of incorporating with Solana development for Blockchain stuff (still learning about that as well).
 
