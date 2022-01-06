@@ -1,12 +1,8 @@
 # Brief Introduction
 
-Currently a graduate student studying Material Science and Engineering.
+Intermediate proficiency in Python, currently learning Rust with the intention of incorporating with Solana development for Blockchain stuff (still learning about that as well).
 
-Mostly utilizing code for making data analysis tools and generating files for automating control of different robotic printers in our lab.
-
-Proficient primarily in Python and MATLAB for setting up calculation scripts and curve fitting of data.
-
-Can be reached through haloh@mix.wvu.edu
+Can be reached through haloh@mix.wvu.edu 📫
 
 <!--
 **hhlohwv/hhlohwv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
