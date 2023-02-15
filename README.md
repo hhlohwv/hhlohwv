@@ -1,6 +1,6 @@
 # Introduction
 
-Intermediate proficiency in Python, currently learning Rust with the intention of incorporating with Solana development for Blockchain stuff (still learning about that as well).
+PhD Student in Materials Science and Engineering at West Virginia University. Currently researching properties and application of carbon nanomaterials.
 
 Can be reached through haloh@mix.wvu.edu 📫
 
