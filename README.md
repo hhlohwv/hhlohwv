@@ -2,7 +2,7 @@
 
 PhD Graduate Research Assistant in Materials Science and Engineering at West Virginia University.
 
-🌱 I’m currently focused on self-learning the following topics:
+🌱 I’m currently learning the following topics:
   - deep learning through the FastAI's course "Practical Deep Learning for Coders"
 
 📫 haloh@mix.wvu.edu 
