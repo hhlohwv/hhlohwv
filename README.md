@@ -1,8 +1,11 @@
 # Introduction
 
-PhD Student in Materials Science and Engineering at West Virginia University. Currently researching properties and application of carbon nanomaterials.
+PhD Graduate Research Assistant in Materials Science and Engineering at West Virginia University.
 
-Can be reached through haloh@mix.wvu.edu 📫
+🌱 I’m currently focused on self-learning the following topics:
+  - deep learning through the FastAI's course "Practical Deep Learning for Coders"
+
+📫 haloh@mix.wvu.edu 
 
 <!--
 **hhlohwv/hhlohwv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
