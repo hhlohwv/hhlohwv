@@ -2,10 +2,16 @@
 
 PhD Graduate Research Assistant in Materials Science and Engineering at West Virginia University.
 
-🌱 I’m currently learning the following topics:
+🔭 Currently working on:
+  - Characterization of material electrical properties via Terahertz Time-Domain Spectroscopy
+
+🌱 Currently learning:
   - deep learning through the FastAI's course "Practical Deep Learning for Coders"
 
 📫 haloh@mix.wvu.edu 
+
+⚡ Fun fact:
+  - learning Japanese
 
 <!--
 **hhlohwv/hhlohwv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
