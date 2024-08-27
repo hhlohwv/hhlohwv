@@ -6,7 +6,7 @@ PhD Graduate Research Assistant in Materials Science and Engineering at West Vir
   - Characterization of material electrical properties via Terahertz Time-Domain Spectroscopy
 
 🌱 Currently learning:
-  - deep learning through the FastAI's course "Practical Deep Learning for Coders"
+  - TBD
 
 📫 haloh@mix.wvu.edu 
 
