@@ -1,3 +1,4 @@
+<!--
 # Introduction
 
 PhD Graduate Research Assistant in Materials Science and Engineering at West Virginia University.
@@ -12,7 +13,7 @@ PhD Graduate Research Assistant in Materials Science and Engineering at West Vir
 
 ⚡ Fun fact:
   - learning Japanese
-
+-->
 <!--
 **hhlohwv/hhlohwv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
